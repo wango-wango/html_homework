@@ -1,0 +1,81 @@
+.program{
+    background-color: rgb(255,255,255);
+    height: 800px;
+}
+.program .title{
+    padding-top: 50px ;
+}
+.program .p_title{
+    text-align: center;
+    font-weight: 800;
+    font-size: 2em;
+    color: #555;
+}
+.program_box{
+    /* width: 1140px; */
+    padding: 10px 200px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.pro_pic{
+    background-color: white;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    box-shadow: 6px 6px 6px 0px #ddd;
+}
+.date-en{
+    background-color: rgb(231, 185, 59);
+    position: absolute;
+    top: -15px;
+    left: 0px;
+    font-size: 1.75em;
+    padding: 5px 15px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.pro_con{
+    position: relative;
+    width: 320px;
+    height: 200px;
+    flex-wrap: wrap;
+    box-shadow: 6px 6px 6px 0px #ddd;
+}
+.pro_con h4{
+    padding-top: 30px;
+    padding-left: 10px;
+    font-weight: 900;
+    font-size: 1.5em;
+    line-height: 2.2em;
+}
+.pro_con p{
+    line-height: 1.5em;
+    font-size: 1em;
+    font-weight: 600;
+}
+.p_item{
+    padding: 0 20px;
+}
+.pro_btn{
+    margin: 80px ;
+    font-size: 1.3em;
+    font-weight: 900;
+    padding: 5px 10px;
+   
+    color: #ddd;
+    text-align: center;
+}
+.pro_btn a{
+     
+     text-decoration: none;
+     color: rgb(238, 211, 9);
+     border:2px solid rgb(238, 211, 9);
+     border-radius: 50px;
+     padding: 15px 60px; 
+}
+.pro_btn a:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(238, 211, 9);
+}

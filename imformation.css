@@ -1,0 +1,97 @@
+.imformation{
+    background-color: #F7F5E4;
+    height: 600px;
+    font-family: 'Oswald',微軟正黑體;
+}
+.imformation h3 {
+    padding: 5px ;
+}
+.imformation .imf_btn{
+    margin: auto;
+    font-weight: 700;
+    text-align: center;
+}
+.imfor_item1 {
+    width: 475px;
+    float: left;
+}
+.imfor_item1 h3{
+    font-weight: 800;
+    font-size: 1.5em;  
+}
+.imfor_item1 span{
+    font-size: 0.8em;
+    font-weight: 600;
+}
+.imfor_item2 h2{
+    font-weight: 800;
+    font-size: 1.5em;  
+}
+.imfor_item2{
+    padding-left: 10px;
+    float: left;
+    width: 600px;
+}
+.imfor_item1 p{
+    line-height: 1.5em;
+}
+.imf_btn{
+    font-size: 1.2em;
+    clear: both;
+    padding-top: 20px;
+   text-align: center;
+   font-weight: 900;
+
+}
+.imfor_item1 a{
+    text-decoration: none;
+    color: rgb(192, 150, 14);
+    font-weight: 900;
+}
+.imfor_item1 a:hover{
+    color: #008eed;
+}
+.imf_btn a{
+    padding: 10px 60px;
+    border-radius: 150px;
+    background-color: #217cab;
+    text-decoration: none;
+    color: white;
+
+}
+.imf_btn a:hover{
+    background-color: #008eed;
+}
+.imformation table{
+    width: 650px;
+    height: 200px;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    table-layout : fixed;
+}
+.imfor_item2 .td_1{
+    background-color: #217cab;
+    color: white;
+}
+.imfor_item2 .td_2{
+    background-color: #efc754;
+}
+.imfor_item2 .td_3{
+    background-color: rgb(255, 255, 255);
+}
+.imfor_item2 .td_4{
+    background-color: rgb(255, 255, 255);
+}
+.imfor_item2 em{
+    font-style: normal;
+    font-size: 1.8em;
+    font-weight: 900;
+}
+.col2{
+    border-top:2px solid rgb(82, 81, 81);
+}
+.imfor_item2 p{
+    font-size: 14px;
+    font-weight: 600;
+}

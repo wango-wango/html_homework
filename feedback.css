@@ -1,0 +1,23 @@
+.feedback{
+    background-image: url(images/HW/bg-1.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(8, 30, 78, 0.952);
+    height: 300px;
+    color: white;
+}
+.feed_content{
+    text-align: center;
+
+}
+
+.feed_content h3{
+    font-size: 1.5em;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.feed_content p{
+
+    font-weight: 800;
+    font-size: 1em;
+}

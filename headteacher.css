@@ -1,0 +1,37 @@
+.headteacher{
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.829);
+ }
+.teacherbox{
+    display: flex;
+}
+.teacherpic{
+    width: 400px;
+    text-align: right;
+}
+.teacherpic img{
+    /* background-image: url(images/HW/speaker.png); */
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.headteacher .title{
+    font-size: 2.5em;
+    color: white;
+    font-weight: 900;
+}
+.tchcontent{
+    text-align: left;
+    padding-left: 20px;
+    width: 800px;
+    color: white;
+}
+.tchcontent h3{
+    font-size: 2em;
+    padding: 15px 0;
+}
+.tchcontent p{
+    font-weight: 800;
+    font-size: 1.2em;
+}

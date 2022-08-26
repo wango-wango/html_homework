@@ -1,0 +1,56 @@
+ /* 這課程適合誰 */
+ .suit_who{
+    background-image: url(images/HW/bg-0.svg);
+    background-color: rgba(0, 0, 0, 0.822);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    box-sizing: border-box;
+    
+}
+.suit_box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.suit_who h3{
+    padding: 20px 0;
+    color: rgb(211, 184, 29);
+}
+.suit_item{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.suit_item img{
+    vertical-align: middle;
+    height: 80%;
+}
+.suit_item p{
+    width: 180px;
+    font-weight: 900;
+    color: white;
+}
+.suit_item span{
+    color: rgb(211, 184, 29);
+    font-size: 1.5em;
+}
+
+/* .sidbar{
+    
+    padding: 5px 50px;
+    text-align: center;
+    font-size: 1.3em;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(241, 189, 34, 0.911);
+}
+.sidbar img{
+    vertical-align:middle;
+    
+    height: 40px;
+} */
+/* 圖文水平置中 */
+ /* -------- */

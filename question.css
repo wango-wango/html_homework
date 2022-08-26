@@ -1,0 +1,35 @@
+.question{
+    background-color: rgb(55, 55, 55);
+    height: 700px;
+    list-style: none;
+    color: white;
+}
+.question ul{
+    margin: auto;
+    list-style: none;
+    max-width: 1140px;
+
+}
+.q_ul li{
+    line-height: 2em;
+    text-align: left;
+    padding: 10px;
+}
+.q_ul li p{
+    font-weight: 600;
+}
+
+.q_img{
+    margin: auto;
+    text-align: center;
+}
+.q_ul a:hover{
+    color: rgb(0, 153, 255)
+}
+.q_ul a{
+    text-decoration: none;
+    color: rgb(252, 223, 63)
+}
+.q_ul h3{
+    font-size: 23px;
+}
